@@ -36,6 +36,10 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 * Matplotlib and Seaborn for data visualization
 * Scikit Learn for implementing Machine Learning Models.
 
+## Some Visualizations
+![image](https://user-images.githubusercontent.com/117965293/209428523-b1c8cec5-79e0-43eb-912e-a61ca0203a40.png)
+
+
 ## Conclusions
 From Exploratory Data Analysis, we can conclude that,
 
